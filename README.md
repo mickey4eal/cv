@@ -1,3 +1,6 @@
+Below is a little insight into myself and my professional journey.
+#
+
 # PERSONAL INFORMATION
 - Michael Arinze Obikwee MIET
 - michaelobikwee@yahoo.co.uk
