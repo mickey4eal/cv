@@ -64,7 +64,7 @@ I am a qualified Lean practitioner and I have worked on a few improvement projec
 - Used the TDD techniques and worked to the S.O.L.I.D. principles during the software design and development processes.
 - Gained key knowledge and experiences in object-oriented languages such as C#, C++, Java, and Pascal.
 
-## September 2015 to May 2016 (Research Engineer)
+## September 2015 to May 2016 (R&D Engineer)
 - Completed an industrial research project with Siemens RA CIS in my final year. This project looked at the feasibility of creating a mobile (Android/IOS) interface for their SCADA system.
 
 ## July 2014 to August 2015 (Industrial Placement / Internship)
