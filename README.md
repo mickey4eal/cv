@@ -43,7 +43,13 @@ Working with multiple departments and in different teams has taught me to how to
 I am a qualified Lean practitioner and I have worked on a few improvement projects. In my last project, my team and I looked at improving the efficiency of the RTU productions at Siemens by 25% using the 5S Six Sigma and other improvement methodologies.
 
 # EMPLOYMENT
-## November 2020 to Present (Testing & Commissioning Site Supervisor - Crossrail)
+## January 2021 to Present (Full Stack Developer - NovaFori)
+- Developed features of various complexity for NovaFori products.
+- Collaborated with team members on complex and detailed design processes.
+- Undertook both individually and along with other team members, PoC work and spike stories to identify optimal solutions to business requirements.
+- Worked in an Agile framework and participated in essential scrum processes.
+
+## November 2020 to January 2021 (Testing & Commissioning Site Supervisor - Crossrail)
 - Led a few teams of multi-skilled engineers to successful complete the testing & commissioning of various telecommunication systems on 5 key Crossrail stations.
 - Designed and implemented a custom feature flag system which reduced the time for the testing process by 50% and enabled the team to exceed their targets for each station.
 - Mentored new members of the team to ensure they're fully competent and work safely.
