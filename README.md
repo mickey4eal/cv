@@ -8,7 +8,7 @@ Below is a little insight into myself and my professional journey.
 
 # TECHNICAL SKILLS
 ## Programming Languages
-- C#
+- C# / ASP.NET
 - Python
 - C/C++
 - Java
