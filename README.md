@@ -33,7 +33,7 @@ Below is a little insight into myself and my professional journey.
 - Worked in an Agile framework and participated in essential scrum processes.
 
 ## November 2020 to January 2021 (Testing & Commissioning Site Supervisor - Crossrail)
-- Managed a team of multidisciplinary engineers at numerous Crossrail sites for testing and commissioning works on the Crossrail data network, SCADA, and Radio systems.
+- Managed a team of multidisciplinary engineers at numerous Crossrail sites for testing and commissioning works on the Crossrail data network, SCADA (Supervisory Control and Data Acquisition), and Radio systems.
 - Conducted site briefings and assessed engineers' competencies and equipment readiness.
 - Created daily site reports which highlighted engineers, site works completed, health and safety incidents, and other relevant information for higher management.
 - Mentored new employees to the testing and commissioning team, teaching them various aspects of the role, including testing procedures, safety protocols, documentation, reporting unsafe conditions, and reporting system faults.
@@ -45,7 +45,7 @@ Below is a little insight into myself and my professional journey.
 
 ## August 2018 to November 2020 (Testing and Commissioning/ Software Engineer - Crossrail)
 - Developed a utility tool using my Microsoft ASP.NET skills and knowledge of network routing and switching. The tool dynamically assessed device reachability and performed automated SSH connections with core Cisco devices. With the utility tool, engineers can obtain real-time updates and historical logs for network devices, enabling swift issue identification and resolution.
-- Responsibile for resolving issues with the RCM system and restoring its normal operations.
+- Responsibile for resolving issues with the RCM (RailCom Manager) system and restoring its normal operations.
 - Designed and delivered a unique data analytics system for IP-enabled railway assets, providing valuable insights for engineering teams. This data analytics system interfaced with various railway assets to generate useful dataset and performed data analysis asynchronously, generating insights from the collated dataset.
 - Ensured the reliability, availability, and security of the Crossrail Cisco Data Network by continuously monitoring availability, latency, and health of critical assets. Ensuring all network issues are detected early and resolved.
 - Resolved 90% of client issues on the latest product release through fault analysis, problem solving, implementation and testing.
@@ -67,7 +67,7 @@ Below is a little insight into myself and my professional journey.
 - Gained key knowledge and experiences in object-oriented languages such as C#, C++, Java, and Pascal.
 
 ## September 2015 to May 2016 (R&D Engineer)
-- Completed an industrial research project with Siemens RA CIS in my final year. This project looked at the feasibility of creating a mobile (Android/IOS) interface for their SCADA system.
+- Completed an industrial research project with Siemens RA CIS in my final year. This project looked at the feasibility of creating a mobile (Android/IOS) interface for their SCADA (Supervisory Control and Data Acquisition) system.
 
 ## July 2014 to August 2015 (Industrial Placement / Internship)
 - Supported the engineering teams to deliver high quality technical and engineering solutions for large multi-disciplined projects for clients related to Control and Information systems, primarily in the rail sector.
