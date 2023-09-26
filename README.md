@@ -81,30 +81,17 @@ and met all applicable legislation, safety/customer standards and project requir
 # EDUCATION
 Brunel University London (2012 to 2016): BEng Computer Systems Engineering with Professional Development (First Class Honours).
 
+# KEY SKILLS
+- Excellent Interpersonal / Communication Skills
+- Teamworking
+- Software Development and IT Skills
+- Problem Solving and Analytical Skills
+- Leadership Skills
+- Flexibility
+- Lean Practitioner
+
 # KEY ACHIEVEMENTS
 - Implemented a Data Collection and Analytics facility which analyses the Crossrail dataset and produces useful insights which can be used to maintain and improve the asset performance.
 - Orchestrated the business migration to a modern way of fault monitoring and asset management.
 - Completed the CITB Site Supervisors Safety Training Scheme Certification.
--Winning the Thomas Gerald Grey Prize from the College of Engineering, Design, and Physical Sciences for the greatest academic improvement within the Electronic and Computer Engineering Area.
-
-# KEY SKILLS
-## Excellent Interpersonal / Communication Skills
-My time at Siemens and volunteering has elevated my communication skills (oral and written). I am confident orator who can voice my opinions without fear of criticism.
-
-## Teamworking
-Taking part in different work and sports teams has taught me the importance of teamwork to achieve a joint goal. I always play my role to the best of my ability to guarantee the success of the team.
-
-## Software Development and IT Skills
-I have designed, implemented, tested, and commissioned multiple computer applications, utilising various computer systems and software programming languages.
-
-## Problem Solving and Analytical Skills
-Working on various engineering projects has advanced my logical approach when solving real world problems. I can analyse any given problem and adequately present my solution using flowcharts, UMLs, and other modelling methods.
-
-## Leadership Skills
-Working as a lead on some projects has improved my leadership qualities. As a leader, I ensure that my colleagues are treated fairly, the work objectives are clearly communicated, and intricately executed while managing any cross-functional partnerships.
-
-## Flexibility
-Working with multiple departments and in different teams has taught me to how to quickly adapt to new environments whilst maintaining a high-level work output.
-
-## Lean Practitioner
-I am a qualified Lean practitioner and I have worked on a few improvement projects. In my last project, my team and I looked at improving the efficiency of the RTU productions at Siemens by 25% using the 5S Six Sigma and other improvement methodologies.
+- Winning the Thomas Gerald Grey Prize from the College of Engineering, Design, and Physical Sciences for the greatest academic improvement within the Electronic and Computer Engineering Area.
