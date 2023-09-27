@@ -79,7 +79,7 @@ and met all applicable legislation, safety/customer standards and project requir
 - Applied the knowledge gained in various development projects, progressing from a trainee to an expert in Fastflex products.
 
 # EDUCATION
-Brunel University London (2012 to 2016): BEng Computer Systems Engineering with Professional Development (First Class Honours).
+- Brunel University London (2012 to 2016): BEng Computer Systems Engineering with Professional Development (First Class Honours).
 
 # KEY SKILLS
 ## Impeccable Interpersonal / Communication Skills
@@ -92,7 +92,7 @@ Brunel University London (2012 to 2016): BEng Computer Systems Engineering with 
 - I have designed, implemented, tested, and commissioned multiple computer applications, utilising various computer systems and software programming languages.
 
 ## Problem Solving and Analytical Skills
-Working on various engineering projects has advanced my logical approach when solving real world problems. I can analyse any given problem and adequately present my solution using flowcharts, UMLs, and other modelling methods.
+- Working on various engineering projects has advanced my logical approach when solving real world problems. I can analyse any given problem and adequately present my solution using flowcharts, UMLs, and other modelling methods.
 
 ## Leadership Skills
 - Working as a lead on some projects has improved my leadership qualities. As a leader, I ensure that my colleagues are treated fairly, the work objectives are clearly communicated, and intricately executed while managing any cross-functional partnerships.
