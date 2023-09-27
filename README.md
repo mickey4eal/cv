@@ -45,7 +45,7 @@ Below is a little insight into myself and my professional journey.
 
 ## August 2018 to November 2020 (Testing and Commissioning/ Software Engineer - Crossrail)
 - Developed a utility tool using my Microsoft ASP.NET skills and knowledge of network routing and switching. The tool dynamically assessed device reachability and performed automated SSH connections with core Cisco devices. With the utility tool, engineers can obtain real-time updates and historical logs for network devices, enabling swift issue identification and resolution.
-- Responsibile for resolving issues with the RCM (RailCom Manager) system and restoring its normal operations.
+- Responsible for resolving issues with the RCM (RailCom Manager) system and restoring its normal operations.
 - Designed and delivered a unique data analytics system for IP-enabled railway assets, providing valuable insights for engineering teams. This data analytics system interfaced with various railway assets to generate useful dataset and performed data analysis asynchronously, generating insights from the collated dataset.
 - Ensured the reliability, availability, and security of the Crossrail Cisco Data Network by continuously monitoring availability, latency, and health of critical assets. Ensuring all network issues are detected early and resolved.
 - Resolved 90% of client issues on the latest product release through fault analysis, problem solving, implementation and testing.
@@ -82,13 +82,26 @@ and met all applicable legislation, safety/customer standards and project requir
 Brunel University London (2012 to 2016): BEng Computer Systems Engineering with Professional Development (First Class Honours).
 
 # KEY SKILLS
-- Excellent Interpersonal / Communication Skills
-- Teamworking
-- Software Development and IT Skills
-- Problem Solving and Analytical Skills
-- Leadership Skills
-- Flexibility
-- Lean Practitioner
+## Impeccable Interpersonal / Communication Skills
+- My time at NovaFori, Siemens and volunteering has elevated my communication skills (oral and written). I am an excellent orator who can articulate my ideas and opinions.
+
+## Teamworking
+- Taking part in different work and sports teams has taught me the importance of teamwork to achieve a joint goal. I always play my role to the best of my ability to guarantee the success of the team.
+
+## Software Development and IT Skills
+- I have designed, implemented, tested, and commissioned multiple computer applications, utilising various computer systems and software programming languages.
+
+## Problem Solving and Analytical Skills
+Working on various engineering projects has advanced my logical approach when solving real world problems. I can analyse any given problem and adequately present my solution using flowcharts, UMLs, and other modelling methods.
+
+## Leadership Skills
+- Working as a lead on some projects has improved my leadership qualities. As a leader, I ensure that my colleagues are treated fairly, the work objectives are clearly communicated, and intricately executed while managing any cross-functional partnerships.
+
+## Flexibility
+- Working with multiple departments and in different teams taught me how to quickly adapt to new environments whilst maintaining a high-level work output.
+
+## Lean Practitioner
+- I am a qualified Lean practitioner and I have worked on various improvement projects. A previous improvement project I worked on required my team and I to look at how to improve the efficiency of the geo-restriction service for Christie's. Our goal was exceptionally achieved.
 
 # KEY ACHIEVEMENTS
 - Implemented a Data Collection and Analytics facility which analyses the Crossrail dataset and produces useful insights which can be used to maintain and improve the asset performance.
